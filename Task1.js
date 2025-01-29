@@ -13,3 +13,8 @@
 
 // Sample Output:
 // 300
+
+let total_taka = 1000
+let fruits_price = 700
+let sum = total_taka - fruits_price
+console.log(sum)
